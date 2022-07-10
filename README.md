@@ -33,3 +33,10 @@ The figure below is the summary showing all Vine and non-Vine reviews within the
 * The percentage of 5-star Vine reviews was 41.6% and there were 53.0% non-vine 5-star reviews
 
 ![Image 3](https://github.com/matthubb17/Amazon_Vine_Analysis/blob/main/Images/%25%20of%205-star%20Reviews%20Vine%20and%20non-vine.png)
+
+## Summary:
+
+Looking at the dataset analysis above we are not seeing a positivity bias for reviews in the Vine program. As mentioned, we saw a higher percentage of 5-star Vine reviews come from the non-vine reviews rather than the Vine reviews (53% vs. 41%).
+
+* One additional analysis that we could do with the dataset to support the idea that there is not positivity bias would be adjust the criteria we used to generate the summary. Since the Vine Reviews dataset is only 334 reviews it may make sense to try to expand the dateranges this data is pulled from.
+* Additionally, it may make sense to take a look at mean, median, and mode of the star ratings.
