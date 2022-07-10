@@ -8,9 +8,9 @@ The goal of this project was to use PySpark in order to extract a dataset from A
 
 ## Resources:
 
-**Deliverable 1:** [Deliverable 1](https://github.com/matthubb17/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
+**Deliverable 1:** [Amazon_Reviews_ETL.ipynb](https://github.com/matthubb17/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
 
-**Deliverable 2:** [Deliverable 2](https://github.com/matthubb17/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
+**Deliverable 2:** [Vine_Review_Analysis.ipynb](https://github.com/matthubb17/Amazon_Vine_Analysis/blob/main/Vine_Review_Analysis.ipynb)
 
 
 **Software:** Google Colab, PySpark, Amazon Web Services (AWS), PgAdmin4
@@ -18,8 +18,10 @@ The goal of this project was to use PySpark in order to extract a dataset from A
 
 ## Results:
 
-The figure below is the summary for the total number of reviews for all Vine and non-Vine reviews within the Sports vi dataset.
+The figure below is the summary showing all Vine and non-Vine reviews within the Sports vi dataset. It also shows the number of 5-star reviews along with the percentage of 5-star reviews.
 
 ![Image 1](https://github.com/matthubb17/Amazon_Vine_Analysis/blob/main/Images/Summary%20Image.png)
+
+* 
 
 
